@@ -1,2 +1,1 @@
-# aula-c22-Gabriel
-corpos, classe, rotate e angulo
+# C20-basics-of-physicsEngine
